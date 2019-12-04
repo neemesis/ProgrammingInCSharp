@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 namespace ProgrammingInCSharp {
     class Program {
         static void Main(string[] args) {
+            ImplementMultithreadingAndAsynchronousProcessing.Start();
+
+            Console.ReadKey();
         }
     }
 }
